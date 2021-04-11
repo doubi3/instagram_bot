@@ -1,1 +1,1 @@
-worker: python instagram_bot.py
+web: python instagram_bot.py
